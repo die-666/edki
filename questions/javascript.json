@@ -1,0 +1,42 @@
+[
+  {
+    "subject": "JavaScript",
+    "question": "Какой результат вернёт typeof null?",
+    "options": ["\"null\"", "\"undefined\"", "\"object\"", "\"boolean\""],
+    "correctIndex": 2
+  },
+  {
+    "subject": "JavaScript",
+    "question": "Что выведет console.log(0.1 + 0.2 === 0.3)?",
+    "options": ["true", "false", "NaN", "undefined"],
+    "correctIndex": 1
+  },
+  {
+    "subject": "JavaScript",
+    "question": "Какой метод массива не изменяет исходный массив?",
+    "options": ["push()", "splice()", "sort()", "map()"],
+    "correctIndex": 3
+  },
+  {
+    "subject": "JavaScript",
+    "question": "Что такое замыкание (closure)?",
+    "options": [
+      "Способ импортировать модули",
+      "Функция, имеющая доступ к переменным внешней функции",
+      "Метод завершения цикла",
+      "Синтаксис для классов ES6"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "subject": "JavaScript",
+    "question": "Чем отличается let от var?",
+    "options": [
+      "let нельзя переприсваивать",
+      "var имеет блочную область видимости",
+      "let имеет блочную область видимости",
+      "Никакой разницы нет"
+    ],
+    "correctIndex": 2
+  }
+]
